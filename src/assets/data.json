@@ -1,0 +1,36 @@
+{
+  "teams": [
+    {
+      "name": "Agni Rakai Sahakarya",
+      "role": "3D Artist & Game Programmer",
+      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672146353/member-banaspateam/242472687_384441436609157_1530127914890124143_n_sl2hmd.jpg"
+    },
+    {
+      "name": "Uwais Alqornie",
+      "role": "Game Programmer",
+      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672149602/member-banaspateam/2022-12-27_20-59_mipgx0.png"
+    },
+    {
+      "name": "Rizki Nur Laili",
+      "role": "3D artist",
+      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672149871/member-banaspateam/14_HBD_LAIL_bzcvad.png"
+    },
+    {
+      "name": "Adi Faradian",
+      "role": "3D artist",
+      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672150796/member-banaspateam/black-icon-only-3_fv4edo.png"
+    },
+    {
+      "name": "Adityo Khori",
+      "role": "3D artist",
+      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672150796/member-banaspateam/black-icon-only-3_fv4edo.png"
+    }
+  ],
+  "galleries": [
+    {
+      "title": "test",
+      "author": "test",
+      "image": "https://cdna.artstation.com/p/assets/images/images/048/471/910/large/agni-rakai-sahakarya-0040.jpg?1650126558"
+    }
+  ]
+}
