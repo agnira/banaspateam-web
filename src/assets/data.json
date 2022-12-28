@@ -1,36 +1,71 @@
 {
   "teams": [
     {
+      "id": 1,
       "name": "Agni Rakai Sahakarya",
       "role": "3D Artist & Game Programmer",
       "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672146353/member-banaspateam/242472687_384441436609157_1530127914890124143_n_sl2hmd.jpg"
     },
     {
+      "id": 2,
       "name": "Uwais Alqornie",
       "role": "Game Programmer",
-      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672149602/member-banaspateam/2022-12-27_20-59_mipgx0.png"
+      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672150796/member-banaspateam/black-icon-only-3_fv4edo.png"
     },
     {
+      "id": 3,
       "name": "Rizki Nur Laili",
       "role": "3D artist",
       "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672149871/member-banaspateam/14_HBD_LAIL_bzcvad.png"
     },
     {
+      "id": 4,
       "name": "Adi Faradian",
       "role": "3D artist",
       "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672150796/member-banaspateam/black-icon-only-3_fv4edo.png"
     },
     {
-      "name": "Adityo Khori",
+      "id": 5,
+      "name": "Adityo Khori Ramadhan",
       "role": "3D artist",
-      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672150796/member-banaspateam/black-icon-only-3_fv4edo.png"
+      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672255073/member-banaspateam/photo_2022-12-29_02-17-19_gshefz.jpg"
     }
   ],
   "galleries": [
     {
-      "title": "test",
-      "author": "test",
+      "title": "Ningguang - Genshin Impact",
+      "author": [1],
       "image": "https://cdna.artstation.com/p/assets/images/images/048/471/910/large/agni-rakai-sahakarya-0040.jpg?1650126558"
+    },
+    {
+      "title": "Rumi Usagiyama - BNHA",
+      "author": [1],
+      "image": "https://cdnb.artstation.com/p/assets/images/images/041/321/071/large/agni-rakai-sahakarya-miruko-ready.jpg?1631373837"
+    },
+    {
+      "title": "Kyouka Jirou - BNHA",
+      "author": [1,3],
+      "image": "https://cdna.artstation.com/p/assets/images/images/043/832/690/large/agni-rakai-sahakarya-1-1.jpg?1638374926"
+    },
+    {
+      "title": "Head sculpt Pennywise",
+      "author": [5],
+      "image": "https://cdna.artstation.com/p/assets/images/images/050/071/530/large/aditkr-penny-f3-2.jpg?1654002719"
+    },
+    {
+      "title": "Pyke - League Of Legends",
+      "author": [5],
+      "image": "https://cdnb.artstation.com/p/assets/images/images/055/943/523/large/aditkr-1pyke.jpg?1668089842"
+    },
+    {
+      "title": "Interior Design",
+      "author": [4],
+      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672254752/artwork/adi/240829479_923552095215742_4231509573823940053_n_ldlt2t.jpg"
+    },
+    {
+      "title": "Interior Design - Kitchen",
+      "author": [4],
+      "image": "https://res.cloudinary.com/dn5hd7rjd/image/upload/v1672254752/artwork/adi/237091054_391768088966016_1957505516221659336_n_anmfpv.jpg"
     }
   ]
 }

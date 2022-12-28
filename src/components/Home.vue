@@ -5,8 +5,18 @@
       <template #default="{ item }">
         <div>
           <q-img class="rounded-borders" :src="item.image">
-            <div class="absolute-bottom text-subtitle1 text-center">
-              {{ item.title }}
+            <div class="absolute-bottom text-subtitle1">
+              <div class="row">
+                <div class="col">
+                  {{ item.title }}
+                </div>
+                <div class="col self-start">
+                  <q-avatar v-for="(item, index) in item.author" :key="item" class="overlapping" size="32px"
+                    color="grey-1" :style="`right: ${(index + 1) * 20}px`">
+                    <img :src="teams.find((team) => team.id === item).image">
+                  </q-avatar>
+                </div>
+              </div>
             </div>
           </q-img>
         </div>
@@ -31,6 +41,11 @@
   </q-page>
 </template>
 
+<style lang="sass" scoped>
+.overlapping
+  position: absolute
+</style>  
+
 <script>
 import data from "../assets/data.json"
 
@@ -43,7 +58,11 @@ import data from "../assets/data.json"
 
 export default {
   name: 'HomePage',
-
+  pages: {
+    index: {
+      title: "Home"
+    }
+  },
 
   data() {
     return {
